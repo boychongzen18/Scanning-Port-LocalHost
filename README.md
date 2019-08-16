@@ -10,7 +10,7 @@
 https://nmap.org/download.html
 # Link bahan baca2 biar paham tentang port 
 https://securitytrails.com/blog/top-scanned-ports
-
+================================================================================================
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
