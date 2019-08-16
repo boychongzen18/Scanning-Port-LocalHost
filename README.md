@@ -1,4 +1,4 @@
-# Scanning Port Via Namp Windows Seven
+# Scanning Port Via Nmap Windows Seven
 
 # Author Boychongzen aka Xroot
 
@@ -6,12 +6,9 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap1.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap2.jpg)
-
-
 # Link Download Tools Nmap 
 https://nmap.org/download.html
-
-#Link bahan baca2 biar paham tentang port 
+# Link bahan baca2 biar paham tentang port 
 https://securitytrails.com/blog/top-scanned-ports
 
 
