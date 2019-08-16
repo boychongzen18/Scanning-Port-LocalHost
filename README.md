@@ -1,8 +1,8 @@
-# Scanning Port Via Nmap Windows Seven
+# Scanning Port localHost Via Nmap Windows Seven
 
 # Author Boychongzen aka Xroot
 
-# Tampilan Cmd Scanning Port ( Tools Nmap )
+# Tampilan Cmd Scanning Port localHost ( Tools Nmap )
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap1.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap2.jpg)
@@ -11,7 +11,7 @@ https://nmap.org/download.html
 # Link bahan baca2 biar paham tentang port 
 https://securitytrails.com/blog/top-scanned-ports
 
-============================================================================================
+=============================================================================
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
