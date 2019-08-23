@@ -2,7 +2,7 @@
 
 # Author Boychongzen aka Xroot
 
-# Top Ports LocalHost
+# Tested : Windows Seven & Termux Working
 
 # Eksekusi Via Terminal
 
