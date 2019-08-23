@@ -14,7 +14,7 @@ nmap --top-ports 100 localhost -v -oG - | grep TCP
 
 nmap -sTU --top-ports 1000 localhost -v -oG -
 
-# Tampilan Cmd Scanning Port LocalHost ( Tools Nmap )
+# Tampilan Cmd Scanning Port LocalHost Tools Nmap Windows Seven
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap1.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap2.jpg)
