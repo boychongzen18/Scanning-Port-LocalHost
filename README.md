@@ -4,7 +4,11 @@
 
 # Tested : Windows Seven & Termux Working
 
-# Eksekusi Via Terminal
+# Eksekusi Via Terminal Termux & Windows Seven
+
+pkg update & upgrade
+
+pkg install git nmap
 
 nmap --help ( Bantuan Eksekusi )
 
@@ -17,12 +21,13 @@ nmap -sTU --top-ports 1000 localhost -v -oG -
 # Tampilan Scanning Port LocalHost Tools Nmap Termux
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/tremos.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/tremos1.jpg)
+
+# Link Download Tools Nmap https://nmap.org/download.html
+
 # Tampilan Cmd Scanning Port LocalHost Tools Nmap Windows Seven
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap1.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Nmap-ScanningPort/master/nmap2.jpg)
-# Link Download Tools Nmap 
-https://nmap.org/download.html
 
 =============================================================================
 
